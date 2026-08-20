@@ -1,7 +1,7 @@
 # OIWP-POWERFET
-Circuit switch made for 3D printers that could replace control board power switches. This project a part of [OitswilliamV2 project](https://github.com/Bunny350/OitswilliamV2) and is currently in EA.
+Circuit switch made for 3D printers that could replace control board power switches. This project is a part of [OitswilliamV2 project](https://github.com/Bunny350/OitswilliamV2) and is currently in EA.
 
-![POWERFET G2](https://github.com/Bunny350/OIWP-POWERFET/tree/POWERFET-G2/Media/IMG_4872.jpeg)
+<img src="https://github.com/Bunny350/OIWP-POWERFET/blob/POWERFET-G2/Media/IMG_4872.jpeg" height=400 />
 
 * [View BOM](https://docs.google.com/spreadsheets/d/1yWVHvXTZzoCHdqzoX9jaTu7xXFzNF9WBVVh8mdETd6c/edit?usp=sharing)
 * [View computer & board compatibility list](https://docs.google.com/spreadsheets/d/1SwCBzh_ZEZ5wuVRrWKhemMHNiEeyeMa_t31kVStiC5g/edit?usp=sharing)
@@ -30,6 +30,7 @@ The unit can be connected via XT30 connector or directly wired via 18AWG wires.
 | Recoommended current | 15A |
 | Max current    | 70A (30V), 50A (60V)|
 | Signal power   | 3.3 to 20V (5V recommended, as low as 2.8V) |
+| Max current from standby connector | 6A |
 | Width          | 42mm |
 | Depth          | 38mm |
 | Thickness      | 10mm approx. (1.6mm PCB)  |
