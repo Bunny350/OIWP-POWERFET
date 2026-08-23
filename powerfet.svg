@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="47mm"
+   height="47mm"
+   viewBox="0 0 47 47"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   sodipodi:docname="powerfet.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.6656998"
+     inkscape:cx="67.336914"
+     inkscape:cy="90.782915"
+     inkscape:window-width="1512"
+     inkscape:window-height="846"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="圖層 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect234"
+       width="45"
+       height="45"
+       x="1"
+       y="1"
+       rx="5" />
+    <path
+       id="rect236"
+       style="stroke-width:2;paint-order:stroke fill markers;stop-color:#000000"
+       d="m 17.999935,24 c -1.107999,0 -1.999878,0.892396 -1.999878,2.000395 v 15.99954 c 0,1.107999 0.891879,2.000394 1.999878,2.000394 H 28.99978 c 1.107999,0 2.000395,-0.892395 2.000395,-2.000394 V 26.000395 C 31.000175,24.892396 30.107779,24 28.99978,24 Z m 4.640544,5.745902 h 1.701704 v 3.471106 h 3.285071 v 1.54926 h -3.285071 v 3.488159 h -1.701704 v -3.488159 h -3.268018 v -1.54926 h 3.268018 z" />
+    <g
+       aria-label="+"
+       id="text400"
+       style="font-weight:bold;font-size:16.9333px;line-height:1.05;font-family:Lato;-inkscape-font-specification:'Lato Bold';fill:#ffffff;stroke-width:0.264583" />
+    <path
+       id="path504"
+       style="stroke-width:2;paint-order:stroke fill markers;stop-color:#000000"
+       d="M 17.999878,3 C 16.891879,3 16,3.892395 16,5.000394 v 15.999541 c 0,1.107999 0.891879,2.000394 1.999878,2.000394 h 10.999845 c 1.107999,0 2.000395,-0.892395 2.000395,-2.000394 V 5.000394 C 31.000118,3.892395 30.107722,3 28.999723,3 Z m 9.627319,9.217008 v 1.54926 h -8.254793 v -1.54926 z"
+       sodipodi:nodetypes="sssssssssccccc" />
+    <path
+       id="path713"
+       style="stroke-width:2.64649;paint-order:stroke fill markers;stop-color:#000000"
+       inkscape:transform-center-x="3.3333335"
+       d="M 10.439795,11.952759 2,16.825846 v 13.34854 l 8.439795,4.87257 M 10.440007,28 H 16 v 3 h -5.559993 z m 0,-12.000001 H 16 v 3.000002 h -5.559993 z"
+       sodipodi:nodetypes="cccccccccccccc" />
+  </g>
+</svg>
